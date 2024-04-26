@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "compatibilityLevel": "JAVA_8",
+    "package": "nl.codersquack.nicejs.fpsdisplay.mixin",
+    "refmap": "refmap.fpsdisplay.json",
+    "mixins": [],
+    "client": ["MixinMinecraft",
+        "MixinGuiIngame"
+    ],
+    "server": []
+}

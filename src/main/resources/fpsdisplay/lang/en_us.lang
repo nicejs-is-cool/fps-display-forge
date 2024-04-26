@@ -1,0 +1,4 @@
+fpsdisplay.config.title=FPS Display Configuration",
+fpsdisplay.config.text.posx=X Position
+fpsdisplay.config.text.posy=Y Position
+fpsdisplay.config.text.color=Text Color
